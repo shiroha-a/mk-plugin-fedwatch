@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/shiroha-a/mk/plugin"
-	"github.com/shiroha-a/mk/plugin/plugintest"
+	"github.com/elythia-network/elythia/plugin"
+	"github.com/elythia-network/elythia/plugin/plugintest"
 )
 
 // 初回の観測で down を立てないこと。

@@ -1,10 +1,10 @@
-module github.com/shiroha-a/mk-plugin-fedwatch
+module github.com/elythia-network/elythia-plugin-fedwatch
 
 go 1.26.6
 
 require (
 	github.com/jackc/pgx/v5 v5.9.2
-	github.com/shiroha-a/mk v0.0.0
+	github.com/elythia-network/elythia v0.0.0
 )
 
-replace github.com/shiroha-a/mk => ../..
+replace github.com/elythia-network/elythia => ../..
